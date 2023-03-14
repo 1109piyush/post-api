@@ -1,6 +1,7 @@
 # Posts App
 
 This is a simple React app that fetches posts from a mock API and displays them in a responsive grid layout using Material-UI.
+
 live link [https://notes-app-p.netlify.app/](https://notes-app-p.netlify.app/)
 
 ## Installation
